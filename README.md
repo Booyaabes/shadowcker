@@ -8,7 +8,7 @@ Docker version of Shadow for Ubuntu
 sudo docker build -t shadowcker .
 ```
 
-## Run
+## Run
 
 You have to enable the capacity for the container to connect to Host X11:
 
